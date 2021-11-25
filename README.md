@@ -47,7 +47,7 @@ python3 -m bot
 ```
 - Deploying to Heroku (Optional) (Not Suitable for very big Clones!)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://bit.ly/3nRWaLw)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3FNtrO5)
 
 - Please know that after using this button, your work isn't done. You gotta [clone heroku app](https://devcenter.heroku.com/articles/git-clone-heroku-app) and add credentials.json and token.pickle (By now you would know how to make it.) and this is the perfect time to generate service accounts if you wish to use them. After it's all done, [Push changes to Heroku (Step1-2 only).](https://docs.railsbridge.org/intro-to-rails/deploying_to_heroku_again)
 
